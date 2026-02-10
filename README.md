@@ -1,13 +1,15 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
+Agentic AI Febb1002016
+
+[Session Link](https://teams.microsoft.com/meet/25584502976812?p=sOxe8Tt1MQmz4qUT6w)
+
 Kyndryl Accelerate Agentic AI_CET &amp; IST_Batch 4 Feb 10 2026
 
     Neha Narula
     
     10m ago
     Lab Sign Up Details:
-    
-     
-    
+   
     Sandbox Portal URL: https://ms-sandbox.cloudlabs.ai/
     
     Activation Code: ACTIVATE2274
