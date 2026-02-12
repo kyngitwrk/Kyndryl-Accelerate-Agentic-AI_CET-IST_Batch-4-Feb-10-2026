@@ -1,4 +1,10 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
+
+https://experience.cloudlabs.ai/#/odl/environment/c61fd145-afcf-461a-8d3a-63864a9058ec/c9bb21aa-4b2d-4daa-96ae-5b8ed8b86833/6372613365314550395165703562395751327A6744413D3D/2 AI Link Feb122026
+
+https://github.com/MicrosoftLearning/mslearn-ai-agents/tree/main AI Link Feb122026
+
+
 Agentic AI Febb1002016
 
 [Session Link](https://teams.microsoft.com/meet/25584502976812?p=sOxe8Tt1MQmz4qUT6w)
