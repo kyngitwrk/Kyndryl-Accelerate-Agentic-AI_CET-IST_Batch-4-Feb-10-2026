@@ -1,5 +1,7 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+https://kyndryl.sharepoint.com/sites/KUFM/SitePages/Microsoft-Hands-On-Learning---Build-Your-Project-Ready-Skills.aspx
+
 https://experience.cloudlabs.ai/#/labguidepreview/29b344fa-e121-4da7-897b-9e677d581e4f/2
 	
 <img width="605" height="1401" alt="image" src="https://github.com/user-attachments/assets/cb0533ed-e566-496d-9ac3-f843373d80a5" />
