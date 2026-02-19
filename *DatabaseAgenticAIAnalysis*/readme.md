@@ -27,5 +27,11 @@ Oracle evaluated MCP and has integrated it into our core developer tools, making
 
 <img width="3088" height="1272" alt="image" src="https://github.com/user-attachments/assets/d05c2905-08a4-4125-abd1-3df5850dfad2" />
 
+# Oracle SQLcl
+
+[Check out the key features of Oracle SQLcl:](https://social.ora.cl/60067ovU0)
+
+
+
 
 
