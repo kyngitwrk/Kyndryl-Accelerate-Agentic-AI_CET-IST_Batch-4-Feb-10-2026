@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=Nq6i_Ppn4cc
     
        Oracle evaluated MCP and has integrated it into our core developer tools, making the Oracle Database immediately available on any platform supporting MCP. This integration is made available via our modern command line to the Oracle Database, Oracle SQLcl.
 
-       <img width="3088" height="1272" alt="image" src="https://github.com/user-attachments/assets/d05c2905-08a4-4125-abd1-3df5850dfad2" />
+<img width="3088" height="1272" alt="image" src="https://github.com/user-attachments/assets/d05c2905-08a4-4125-abd1-3df5850dfad2" />
 
 
 
