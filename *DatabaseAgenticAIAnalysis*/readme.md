@@ -94,4 +94,60 @@ https://github.com/bbrumm/databasestar/tree/main/sample_databases/oracle_hr
 
 https://www.oracle.com/database/technologies/oml4py-downloads.html
 
+        Oracle’s MCP Server for Oracle Database is a new capability built into Oracle SQLcl that lets any MCP-compatible AI agent (Copilot agents, Cline, Claude Desktop, etc.) discover and call database “tools” (connect, run SQL/PLSQL, inspect objects, etc.) through a standard protocol, instead of every AI tool needing a custom Oracle integration.
+        
+        What it is (in one picture)
+        
+        MCP client (your agent UI) → speaks MCP
+        
+        SQLcl running as an MCP Server → exposes “tools” that map to SQLcl actions
+        
+        Oracle Database (19c included) → the actual target DB
+        
+        Oracle’s implementation is not a separate product—it’s a feature of SQLcl.
+        
+        Why Oracle introduced it
+        
+        Oracle’s stated motivation is that without a common protocol, every AI tool/vendor would need a bespoke integration to offer the same DB capabilities; MCP standardizes that interface so Oracle Database can plug into many agent platforms consistently.
+        
+        What the MCP Server exposes
+        
+        SQLcl MCP Server provides a set of MCP tools that abstract common SQLcl commands so AI applications can (under your permissions) do things like:
+        
+        connect to a database
+        
+        execute SQL/PL/SQL
+        
+        retrieve and analyze results
+        Oracle documents these as “SQLcl MCP Server tools.”
+        
+        How it works operationally
+        
+        You run SQLcl in MCP Server mode (Oracle notes it’s typically launched/managed by the MCP client).
+        
+        The MCP client lists available tools and invokes them as needed (for example in Copilot chat you can view the tool list).
+        
+        SQLcl executes against your Oracle DB using the credentials/connection configuration you provide.
+        
+        Does it work with Oracle 19c?
+        
+        Yes—the MCP capability is in SQLcl, and SQLcl connects to Oracle Database versions including 19c the same way it normally would. (The agent is only as powerful as the DB account you connect with.)
+        
+        Security reality check (important for “agentic” usage)
+        
+        Because the agent can call tools that run SQL/PLSQL, the DB user privileges define the blast radius. Oracle community guidance strongly recommends least-privilege accounts and careful setup before letting an agent run freely.
+        
+        Where to learn / start
+        
+        Oracle announcement/introduction blog:
+        
+        Official SQLcl MCP docs (25.2 guide hub):
+        
+        Tool list / capabilities:
+        
+        “Getting started” walkthrough (Jeff Smith):
+        
+        If you want, tell me which MCP client you’re using on Linux (VS Code + Copilot? Cline? Claude Desktop?), and whether your 19c connection is EZCONNECT or TNS alias—and I’ll paste a working, minimal config + the safest default privilege pattern for the “agent user.”
+
+
 
