@@ -92,4 +92,6 @@ https://github.com/bbrumm/databasestar/tree/main/sample_databases/oracle_hr
         
         #mcp #oracle23ai #oraclesqlcl #sqlcl #claude #sonnet #artificialintelligence #modelcontextprotocol #oracle
 
+https://www.oracle.com/database/technologies/oml4py-downloads.html
+
 
