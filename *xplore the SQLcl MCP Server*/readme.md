@@ -20,3 +20,7 @@ https://livelabs.oracle.com/ords/r/dbpm/livelabs/run-workshop?p210_wid=4285&p210
 
 
 <img width="1025" height="661" alt="image" src="https://github.com/user-attachments/assets/2ff187cc-df4f-4049-8910-ef88331ee12a" />
+
+
+<img width="1504" height="2581" alt="image" src="https://github.com/user-attachments/assets/981c4173-614b-42d3-8005-c3ac8996b5e5" />
+
