@@ -17,3 +17,6 @@ https://livelabs.oracle.com/ords/r/dbpm/livelabs/run-workshop?p210_wid=4285&p210
 <img width="449" height="101" alt="image" src="https://github.com/user-attachments/assets/06515c3d-0de7-4f32-b5de-08fbc30cb768" />
 
         SQL Error: ORA-03113: database connection closed by peer (connection_type=client, source=/10.233.100.168:53491, target=db.freesql.com:1521, protocol=TCP, service=23ai_34ui2, detecting_end=client, server_type=unknown, client_program=Oracle SQL Developer for VS Code/25.4.1, server_process=37603, session=1072.62053, user=KYNGITWRK2024_SCHEMA_17RHE, last_rpc=Execute query, connection_id=cge9mC8PT8i/WZiMaXcAcA==, nne_encryption=AES256, nne_checksumming=SHA256, authentication=O5LOGON)
+
+
+<img width="1025" height="661" alt="image" src="https://github.com/user-attachments/assets/2ff187cc-df4f-4049-8910-ef88331ee12a" />
