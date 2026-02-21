@@ -33,6 +33,11 @@ Name: freesqlConnect String: db.freesql.com:1521/23ai_34ui2User: KYNGITWRK2024_S
 
 
 
+<img width="1376" height="4541" alt="image" src="https://github.com/user-attachments/assets/0e2bb9b7-a35d-483a-92d7-97976a6fac51" />
+
+
+
+
 
 
 
