@@ -2,6 +2,8 @@ https://livelabs.oracle.com/ords/r/dbpm/livelabs/run-workshop?p210_wid=4285&p210
 
 https://modelcontextprotocol.io/docs/getting-started/intro
 
+https://docs.astral.sh/uv/guides/scripts/#improving-reproducibility
+
 # Password
     LQXHGNR8O173gBFYET389VMHHLRR$0
 
