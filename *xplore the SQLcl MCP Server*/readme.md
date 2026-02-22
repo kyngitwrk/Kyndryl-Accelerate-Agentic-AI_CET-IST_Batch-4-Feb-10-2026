@@ -37,7 +37,31 @@ Name: freesqlConnect String: db.freesql.com:1521/23ai_34ui2User: KYNGITWRK2024_S
 		
 `#RRGGBB` <img width="1578" height="461" alt="image" src="https://github.com/user-attachments/assets/d7a8a61f-23cc-46cc-8994-3013bdd7f904" />
 
-
+	{
+	  "mcpServers": {
+	    "SQLcl - SQL Developer": {
+	      "timeout": 60,
+	      "type": "stdio",
+	      "command": "c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\jdk\\bin\\java.exe",
+	      "args": [
+	        "-Djava.net.useSystemProxies=true",
+	        "-Duser.language=en",
+	        "-p",
+	        "c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\launch;c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\sqlcl\\launch",
+	        "--add-modules",
+	        "ALL-DEFAULT",
+	        "--add-opens",
+	        "java.prefs/java.util.prefs=oracle.dbtools.win32",
+	        "--add-opens",
+	        "jdk.security.auth/com.sun.security.auth.module=oracle.dbtools.win32",
+	        "-m",
+	        "com.oracle.dbtools.launch",
+	        "sql",
+	        "-mcp"
+	      ]
+	    }
+	  }
+	}
 
 
 
