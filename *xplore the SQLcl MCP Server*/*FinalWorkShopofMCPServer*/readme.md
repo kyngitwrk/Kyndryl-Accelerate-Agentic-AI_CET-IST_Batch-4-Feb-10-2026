@@ -10,6 +10,39 @@
 <img width="1552" height="1461" alt="image" src="https://github.com/user-attachments/assets/6e7428a8-1dbb-456b-8d42-cb1e8d4967f0" />
 
 
+    {
+      "mcpServers": {
+        "SQLcl - SQL Developer": {
+          "timeout": 60,
+          "type": "stdio",
+          "command": "c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\jdk\\bin\\java.exe",
+          "args": [
+            "-Djava.net.useSystemProxies=true",
+            "-Duser.language=en",
+            "-p",
+            "c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\launch;c:\\Users\\VENKATESHREDDY\\.vscode\\extensions\\oracle.sql-developer-25.4.1-win32-x64\\dbtools\\sqlcl\\launch",
+            "--add-modules",
+            "ALL-DEFAULT",
+            "--add-opens",
+            "java.prefs/java.util.prefs=oracle.dbtools.win32",
+            "--add-opens",
+            "jdk.security.auth/com.sun.security.auth.module=oracle.dbtools.win32",
+            "-m",
+            "com.oracle.dbtools.launch",
+            "sql",
+            "-mcp"
+          ],
+          "autoApprove": [
+            "list-connections",
+            "connect",
+            "schema-information",
+            "run-sql"
+          ]
+        }
+      }
+    }
+
+
 
 
 
