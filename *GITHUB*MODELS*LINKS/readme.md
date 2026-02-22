@@ -17,3 +17,5 @@ Safe Inputs and Safe Outputs
 Safe inputs (validated user input tools) - Custom MCP tools defined inline to prevent injection attacks
 Safe outputs (validated GitHub operations) - Pre-approved actions the AI can request without write permissions
 
+https://github.com/github/github-mcp-server/blob/main/docs/installation-guides/install-claude.md
+
