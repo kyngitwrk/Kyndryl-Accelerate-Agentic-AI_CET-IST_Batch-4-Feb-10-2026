@@ -29,7 +29,8 @@ Name: freesqlConnect String: db.freesql.com:1521/23ai_34ui2User: KYNGITWRK2024_S
 
 <img width="1376" height="4541" alt="image" src="https://github.com/user-attachments/assets/0e2bb9b7-a35d-483a-92d7-97976a6fac51" />
 		
-<img width="1514" height="781" alt="image" src="https://github.com/user-attachments/assets/1b91ff03-0b28-40f9-afd2-5a348ee9518d" />
+<img width="1514" height="821" alt="image" src="https://github.com/user-attachments/assets/7d14d90f-0866-4cb4-a2d3-0de73f433eed" />
+
 
 
 
