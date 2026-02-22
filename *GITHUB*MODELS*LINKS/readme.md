@@ -13,4 +13,7 @@
 
     Agentic workflows implement a defense-in-depth security architecture that protects against prompt injection, rogue MCP servers, and malicious agents. The architecture operates across multiple layers: compilation-time validation, runtime isolation, permission separation, network controls, and output sanitization.
 
+Safe Inputs and Safe Outputs
+Safe inputs (validated user input tools) - Custom MCP tools defined inline to prevent injection attacks
+Safe outputs (validated GitHub operations) - Pre-approved actions the AI can request without write permissions
 
