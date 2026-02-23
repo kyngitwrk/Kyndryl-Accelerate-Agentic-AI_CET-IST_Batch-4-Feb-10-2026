@@ -1,3 +1,5 @@
+https://blogs.oracle.com/database/prompt-engineering-using-the-sqlcl-mcp-server-and-your-ai-agent-to-build-schema-objects-from-scratch
+
 https://stackoverflow.com/questions/77964269/how-do-i-schedule-the-execution-of-sql-python-oml4py-code-in-the-oracle-auto
 
 [ntroducing Oracle Autonomous AI Database MCP Server-Youtuble](https://www.youtube.com/watch?v=_MZyTBaohEA&t=136s)
