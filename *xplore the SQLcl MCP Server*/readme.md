@@ -1,3 +1,5 @@
+https://pub.towardsai.net/building-observable-agentic-ai-systems-langgraph-langsmith-and-oracle-sqlcl-mcp-server-7ccd343030c4
+
 https://blogs.oracle.com/database/prompt-engineering-using-the-sqlcl-mcp-server-and-your-ai-agent-to-build-schema-objects-from-scratch
 
 https://stackoverflow.com/questions/77964269/how-do-i-schedule-the-execution-of-sql-python-oml4py-code-in-the-oracle-auto
