@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=wdfeIqN0wcI
+
 https://pub.towardsai.net/building-observable-agentic-ai-systems-langgraph-langsmith-and-oracle-sqlcl-mcp-server-7ccd343030c4
 
 https://blogs.oracle.com/database/prompt-engineering-using-the-sqlcl-mcp-server-and-your-ai-agent-to-build-schema-objects-from-scratch
