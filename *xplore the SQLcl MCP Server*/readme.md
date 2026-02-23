@@ -1,4 +1,6 @@
-[ntroducing Oracle Autonomous AI Database MCP Server](https://www.youtube.com/watch?v=_MZyTBaohEA&t=136s)
+https://stackoverflow.com/questions/77964269/how-do-i-schedule-the-execution-of-sql-python-oml4py-code-in-the-oracle-auto
+
+[ntroducing Oracle Autonomous AI Database MCP Server-Youtuble](https://www.youtube.com/watch?v=_MZyTBaohEA&t=136s)
 
 https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.2/sqcug/starting-and-managing-sqlcl-mcp-server.html#GUID-5F916B5D-8670-42BD-9F8B-D3D2424EC47E
 
