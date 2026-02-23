@@ -1,3 +1,5 @@
+https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.2/sqcug/starting-and-managing-sqlcl-mcp-server.html#GUID-5F916B5D-8670-42BD-9F8B-D3D2424EC47E
+
 https://medium.com/oracledevs/introduction-to-the-oracle-database-mcp-toolkit-50a22cbc3e4f
 
 https://livelabs.oracle.com/ords/r/dbpm/livelabs/run-workshop?p210_wid=4285&p210_wec=&session=133712868107415
