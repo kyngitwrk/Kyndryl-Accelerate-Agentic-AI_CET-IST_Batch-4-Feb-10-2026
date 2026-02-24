@@ -1,5 +1,8 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+https://urldefense.com/v3/__https://email.sg.on24event.com/ls/click?upn=u001.7kf5QUY4LGF7Fzt7LGE4bW1oiK-2Fg70N9FV1Dojzh5ZKGIwF7iLp6jqFau7aPLHYzH9-2BDwvYmAcRNEGnYzkgXxwhVVuZWOZlWa72qiI5XvNw-3D2Qnw_OcbHGqBrrifDyxSH5nAfq8q2DyiqUT-2F5ZC6ftORPsBhm7-2BX6HAl2muHKPmyijzplELz9OZlTbq3bDjOnN-2FVUuT0qWSwwPp03HmLr2TPMmejgoKtz4OiQ0o4GEHm-2F6P9Ec7VsHDZ-2BQdyoWhSRZsTZGAZsrZgOcEUCpetPuM-2BsnCx5YN6r790EUV2QIAHxFBtxxFy32NMUey8bUmlhgAA-2FsI9FU-2BmWvRbZzQph63jB1G-2BTCoHIywekjQclVdnmHvZTL2edjUSeFltORAkAZOCTU5MkSYoxAit4Uz-2FU9ATgmxi-2BrK-2B7-2F2NjlGPdzqNsapHLheEKB2tejY1mv4NcXLmhNg-3D-3D__;!!Dq81_Y1A2Q!0LGRMf_vVXYY9_Xu67u9ZwN1s9P_xoWIRv1mU_kXGNPOu_fFEJvYpkBuCBbgRUx3muwZAiUwtBq-lJKcnT4oywK0e7DPxW16iA$
+
+
 https://github.com/MicrosoftLearning/mslearn-copilotstudio/blob/main/Instructions/Labs/01-create-copilot.md
 
 https://kyndryl.sharepoint.com/sites/KUFM/SitePages/Microsoft-Hands-On-Learning---Build-Your-Project-Ready-Skills.aspx
