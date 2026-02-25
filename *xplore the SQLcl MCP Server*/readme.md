@@ -1,3 +1,4 @@
+https://developers.redhat.com/articles/2026/01/20/deploy-oracle-sqlcl-mcp-server-openshift#standalone
 
 https://www.dbaplus.ca/2022/03/oracle-sqlcl-installation-and.html
 
