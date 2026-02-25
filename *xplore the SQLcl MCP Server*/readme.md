@@ -1,4 +1,4 @@
-[Introducing SQL Developer Copilot Integration in Microsoft VSCode & MCP Support for Oracle]( Databasehttps://www.youtube.com/watch?v=hj6WoZVGUBg)
+[Introducing SQL Developer Copilot Integration in Microsoft VSCode MCP Support for Oracle](https://www.youtube.com/watch?v=hj6WoZVGUBg)
 
 
 
