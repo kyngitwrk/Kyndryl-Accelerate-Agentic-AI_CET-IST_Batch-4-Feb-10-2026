@@ -1,3 +1,6 @@
+
+https://www.dbaplus.ca/2022/03/oracle-sqlcl-installation-and.html
+
 https://docs.oracle.com/en/database/oracle/sql-developer-command-line/25.2/sqcug/using-unix-service-manage-daemons.html#GUID-58D3532C-14C2-4510-BE71-478645B0CB98
 
 https://www.thatjeffsmith.com/archive/tag/sqlcl/
