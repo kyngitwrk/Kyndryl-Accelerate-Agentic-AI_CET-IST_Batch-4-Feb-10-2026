@@ -1,3 +1,5 @@
+https://www.thatjeffsmith.com/archive/2025/07/getting-started-with-our-mcp-server-for-oracle-database/
+
 [SQLclWithDockerSetup](https://www.youtube.com/watch?v=5WlyMjihfWQ)
 
 [Oracle SQLcl MCP Server with Oracle AI Database and Claude Desktop and Cline in Visual Studio](https://www.youtube.com/watch?v=8qdJZinghGE)
