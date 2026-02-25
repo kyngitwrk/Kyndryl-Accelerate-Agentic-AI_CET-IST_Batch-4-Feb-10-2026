@@ -1,3 +1,5 @@
+https://www.thatjeffsmith.com/archive/tag/sqlcl/
+
 https://www.thatjeffsmith.com/archive/2026/02/options-for-our-local-oracle-database-mcp-server-in-vs-code/
 
 https://www.youtube.com/watch?v=E2DEHOEbzks
