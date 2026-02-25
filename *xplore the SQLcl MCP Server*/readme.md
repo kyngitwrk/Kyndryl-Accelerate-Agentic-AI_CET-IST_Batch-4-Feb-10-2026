@@ -1,3 +1,6 @@
+[
+Introducing SQL Developer Copilot Integration in Microsoft VSCode & MCP Support for Oracle]( Databasehttps://www.youtube.com/watch?v=hj6WoZVGUBg)
+
 https://developers.redhat.com/articles/2026/01/20/deploy-oracle-sqlcl-mcp-server-openshift#standalone
 
 https://www.dbaplus.ca/2022/03/oracle-sqlcl-installation-and.html
