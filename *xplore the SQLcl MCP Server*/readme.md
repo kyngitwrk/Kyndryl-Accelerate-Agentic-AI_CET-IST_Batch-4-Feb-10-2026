@@ -1,3 +1,5 @@
+https://www.techzine.eu/news/infrastructure/133129/oracle-makes-databases-accessible-to-ai-via-model-context-protocol/?utm_source=dlvr.it&utm_medium=twitter
+
 https://www.thatjeffsmith.com/archive/2025/07/getting-started-with-our-mcp-server-for-oracle-database/
 
 [SQLclWithDockerSetup](https://www.youtube.com/watch?v=5WlyMjihfWQ)
