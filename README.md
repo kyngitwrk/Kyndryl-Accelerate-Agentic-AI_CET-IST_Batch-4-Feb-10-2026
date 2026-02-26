@@ -1,5 +1,9 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+
+https://kyndryl.sharepoint.com/sites/ADAI-Data-and-AI/SitePages/Data-and-AI-Academy.aspx
+
+
 https://urldefense.com/v3/__https://email.sg.on24event.com/ls/click?upn=u001.7kf5QUY4LGF7Fzt7LGE4bW1oiK-2Fg70N9FV1Dojzh5ZKGIwF7iLp6jqFau7aPLHYzH9-2BDwvYmAcRNEGnYzkgXxwhVVuZWOZlWa72qiI5XvNw-3DNhFK_OcbHGqBrrifDyxSH5nAfq8q2DyiqUT-2F5ZC6ftORPsBhm7-2BX6HAl2muHKPmyijzplQVk6oGmuAiTjp2AkjkKNofwJFzCcK-2FAmdOGjMoZPiJcMKjNuh1Vw9uQ4fWeRK7mfOT7S4Er3KjnJ0B8tBJbug4ro9Xoe2k9d1fcla4vJBlRHAxm-2FzoKHxYf09tO9kmPJYpCOM9DGfxn5gMlqDo9B-2FbOcdFBhR98y091wpBGvJiEAyZoOx6K0I3Gjqey04l4SL0sHZWgubaXNlLC7BtAc8-2B-2BZho4q7uaQgLRn2bV5llJSfyyHDcgIddNyh83pgqTQXy2rLnUZx0FH0McCjD7Baw-3D-3D__;!!Dq81_Y1A2Q!1Q2oRt9X-F6o_Tulh30No3kDw8exvdwggqSTYIieeNYHYI7colEI09JePPsN-qVSViLj4v--VH47Shz4zCnfLSKs85c3joTqEQ$
 
 
