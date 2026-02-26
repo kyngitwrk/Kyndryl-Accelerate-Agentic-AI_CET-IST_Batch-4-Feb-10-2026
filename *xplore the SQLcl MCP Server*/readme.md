@@ -1,3 +1,4 @@
+https://kyndryl.sharepoint.com/sites/Research/SitePages/Agentic-AI-Functional-Architecture.aspx
 https://kyndryl.sharepoint.com/sites/Research/SitePages/Why-do-we-need-AI-Agents--.aspx
 
 https://www.techzine.eu/news/infrastructure/133129/oracle-makes-databases-accessible-to-ai-via-model-context-protocol/?utm_source=dlvr.it&utm_medium=twitter
