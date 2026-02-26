@@ -1,3 +1,5 @@
+https://kyndryl.sharepoint.com/:p:/r/sites/google-alliance/_layouts/15/Doc.aspx?sourcedoc=%7B168F4C51-6AAE-4C14-8F1F-CBF3FA09B2C0%7D&file=25%20-%20Building%20Agents%20on%20GCP%2001%20July.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1
+
 https://kyndryl.sharepoint.com/sites/Research/SitePages/Agentic-AI-Functional-Architecture.aspx
 
 https://kyndryl.sharepoint.com/sites/Research/SitePages/Why-do-we-need-AI-Agents--.aspx
