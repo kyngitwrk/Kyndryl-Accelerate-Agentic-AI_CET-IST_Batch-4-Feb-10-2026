@@ -1,3 +1,5 @@
+https://kyndryl.sharepoint.com/sites/Research/SitePages/Why-do-we-need-AI-Agents--.aspx
+
 https://www.techzine.eu/news/infrastructure/133129/oracle-makes-databases-accessible-to-ai-via-model-context-protocol/?utm_source=dlvr.it&utm_medium=twitter
 
 https://www.thatjeffsmith.com/archive/2025/07/getting-started-with-our-mcp-server-for-oracle-database/
