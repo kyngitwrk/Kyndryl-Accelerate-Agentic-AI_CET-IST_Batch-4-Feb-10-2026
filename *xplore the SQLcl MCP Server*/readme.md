@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=bFy8pmmpSHU
+
 [Getting Started with Oracle Select AI - generative AI and your database](https://www.youtube.com/watch?v=rnsnIYYZzr4)
 
 https://kyndryl.sharepoint.com/:w:/r/sites/AgenticDelivery/_layouts/15/Doc.aspx?sourcedoc=%7B13B568CC-D94B-4D5C-B511-AEA9126A8403%7D&file=Agentic_Delivery_ASD.docx&action=default&mobileredirect=true&DefaultItemOpen=1
