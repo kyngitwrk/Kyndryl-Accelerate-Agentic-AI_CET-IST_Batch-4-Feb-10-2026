@@ -1,4 +1,11 @@
 
+https://intotheoracleverse.blogspot.com/2025/12/extending-your-oracle-26ai-free-local.html
+
+
+
+[How to Connect Claude Desktop to Oracle 26ai using SQLcl MCP | Oracle 26ai + SQLcl MCP + Claude AI](https://www.youtube.com/watch?v=jraE-gjzLC4)
+
+
 [Docker oracle database 19c free | SE2 | sqlplus | 19.3.0 | standard edition 2](https://www.youtube.com/watch?v=bFy8pmmpSHU)
 
 https://www.youtube.com/watch?v=bFy8pmmpSHU
