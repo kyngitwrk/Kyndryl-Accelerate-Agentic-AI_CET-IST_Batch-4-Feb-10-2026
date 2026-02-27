@@ -1,3 +1,6 @@
+
+[Docker oracle database 19c free | SE2 | sqlplus | 19.3.0 | standard edition 2](https://www.youtube.com/watch?v=bFy8pmmpSHU)
+
 https://www.youtube.com/watch?v=bFy8pmmpSHU
 
 [Getting Started with Oracle Select AI - generative AI and your database](https://www.youtube.com/watch?v=rnsnIYYZzr4)
