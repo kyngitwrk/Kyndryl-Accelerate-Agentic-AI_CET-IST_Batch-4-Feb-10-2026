@@ -1,4 +1,7 @@
 
+
+https://intotheoracleverse.blogspot.com/2025/10/oracle-26ai-free-local-docker-setup.html
+
 https://intotheoracleverse.blogspot.com/2025/12/extending-your-oracle-26ai-free-local.html
 
 
