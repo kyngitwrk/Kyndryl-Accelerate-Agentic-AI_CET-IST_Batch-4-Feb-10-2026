@@ -1,6 +1,8 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
 
+[Developer Coaching - Introducing SQL Developer Integration in VSCode](https://www.youtube.com/watch?v=521GBhrmrmw)
+
 https://kyndryl.sharepoint.com/sites/ADAI-Data-and-AI/SitePages/Data-and-AI-Academy.aspx
 
 
