@@ -1,6 +1,9 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
 
+https://kyndryl.sharepoint.com/sites/ChatOps/SitePages/Enabling%20Service%20Manager.aspx
+
+
 Ticket Generation 
 https://kyndryl.sharepoint.com/sites/IntelligentCloudContactCenter/_layouts/15/stream.aspx?id=%2Fsites%2FIntelligentCloudContactCenter%2FShared%20Documents%2FDemos%2FStudio%207%20Demo%20ICCC%5FID%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E99eb6520%2Df1e4%2D442e%2Db2fc%2Df55adc3ec5bc
 
