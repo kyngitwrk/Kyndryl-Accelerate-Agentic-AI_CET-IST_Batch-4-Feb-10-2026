@@ -1,6 +1,8 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
 
+[Innovate with Oracle Generative AI & Oracle Database 23ai using MCP Server and SQLcl](https://www.youtube.com/watch?v=PUKRWh_sVB8)
+
 [Developer Coaching - Introducing SQL Developer Integration in VSCode](https://www.youtube.com/watch?v=521GBhrmrmw)
 
 https://kyndryl.sharepoint.com/sites/ADAI-Data-and-AI/SitePages/Data-and-AI-Academy.aspx
