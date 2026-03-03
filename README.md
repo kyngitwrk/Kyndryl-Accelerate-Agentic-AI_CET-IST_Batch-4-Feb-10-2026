@@ -4,6 +4,8 @@
 Ticket Generation 
 https://kyndryl.sharepoint.com/sites/IntelligentCloudContactCenter/_layouts/15/stream.aspx?id=%2Fsites%2FIntelligentCloudContactCenter%2FShared%20Documents%2FDemos%2FStudio%207%20Demo%20ICCC%5FID%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E99eb6520%2Df1e4%2D442e%2Db2fc%2Df55adc3ec5bc
 
+
+
 [Innovate with Oracle Generative AI & Oracle Database 23ai using MCP Server and SQLcl](https://www.youtube.com/watch?v=PUKRWh_sVB8)
 
 [Developer Coaching - Introducing SQL Developer Integration in VSCode](https://www.youtube.com/watch?v=521GBhrmrmw)
