@@ -1,6 +1,8 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
 
+https://aimultiple.com/oracle-ai-agents
+
 https://kyndryl.sharepoint.com/sites/ChatOps/SitePages/Enabling%20Service%20Manager.aspx
 
 
