@@ -1,5 +1,7 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+https://www.geraldonit.com/introducing-the-oracle-database-documentation-mcp-server/
+
 https://www.techzine.eu/blogs/infrastructure/139296/red-hat-makes-ansible-the-execution-layer-for-agentic-ai-systems/
 
 https://www.thatjeffsmith.com/archive/2025/07/getting-started-with-our-mcp-server-for-oracle-database/
