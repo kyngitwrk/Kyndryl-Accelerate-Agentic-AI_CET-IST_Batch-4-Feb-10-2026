@@ -1,5 +1,6 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+https://github.com/tannerpace/mcp-oracle-database
 
 https://aimultiple.com/oracle-ai-agents
 
