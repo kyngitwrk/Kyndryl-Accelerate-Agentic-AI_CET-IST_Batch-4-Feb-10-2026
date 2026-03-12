@@ -1,5 +1,7 @@
 # Kyndryl-Accelerate-Agentic-AI_CET-IST_Batch-4-Feb-10-2026
 
+https://lobehub.com/mcp/yourusername-oracle-mcp-server
+
 https://blog.cloudnueva.com/oracle-sqlcl-mcp-server-with-codex-and-copilot-joelkallmanday
 
 https://github.com/tannerpace/mcp-oracle-database
